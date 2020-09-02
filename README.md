@@ -4,7 +4,7 @@
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
 |1  |[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) |Easy |[Solution](Week-1/LargestTimeForGivenDigits.java) |
-|2  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/submissions/)   |Medium   |[Solution](Week-1/ContainsDuplicateIII.java) |
+|2  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)   |Medium   |[Solution](Week-1/ContainsDuplicateIII.java) |
 |3	|   |   |   |
 |4	|   |   |   |
 |5  |   |   |   |
