@@ -5,7 +5,7 @@
 |:--|:-----------|:---------|:-------|
 |1  |[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) |Easy |[Solution](Week-1/LargestTimeForGivenDigits.java) |
 |2  |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)   |Medium   |[Solution](Week-1/ContainsDuplicateIII.java) |
-|3	|   |   |   |
+|3	|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)   |Easy   |[Solution](Week-1/RepeatedSubstringPattern.java)   |
 |4	|   |   |   |
 |5  |   |   |   |
 |6	|   |   |   |
