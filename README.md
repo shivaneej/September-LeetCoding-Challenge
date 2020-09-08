@@ -14,7 +14,7 @@
 ## Week 2: September 8th - September 14th
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
-|1  |[Sum of Root To Leaf Binary Numbers]()   |Easy   |[Solution](Week-2/SumOfRootToLeafBinaryNumbers.java)   |
+|1  |[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)   |Easy   |[Solution](Week-2/SumOfRootToLeafBinaryNumbers.java)   |
 |2      |   |   |   |
 |3	    |   |   |   |
 |4	    |   |   |   |
