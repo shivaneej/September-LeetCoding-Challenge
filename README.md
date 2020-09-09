@@ -15,7 +15,7 @@
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
 |1  |[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)   |Easy   |[Solution](Week-2/SumOfRootToLeafBinaryNumbers.java)   |
-|2      |   |   |   |
+|2  |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)   |Medium   |[Solution](Week-2/CompareVersionNumbers.java)   |
 |3	    |   |   |   |
 |4	    |   |   |   |
 |5      |   |   |   |
