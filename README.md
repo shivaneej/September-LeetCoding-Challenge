@@ -17,7 +17,7 @@
 |1  |[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)   |Easy   |[Solution](Week-2/SumOfRootToLeafBinaryNumbers.java)   |
 |2  |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)   |Medium   |[Solution](Week-2/CompareVersionNumbers.java)   |
 |3	 |[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)   |Easy   |[Solution](Week-2/BullsAndCows.java)   |
-|4	    |   |   |   |
+|4  |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)   |Medium   |[Solution](Week-2/MaximumProductSubarray.java)   |
 |5      |   |   |   |
 |6	    |   |   |   |
 |7	    |   |   |   |
