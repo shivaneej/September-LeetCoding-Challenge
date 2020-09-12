@@ -18,7 +18,7 @@
 |2  |[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)   |Medium   |[Solution](Week-2/CompareVersionNumbers.java)   |
 |3	 |[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows)   |Easy   |[Solution](Week-2/BullsAndCows.java)   |
 |4  |[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)   |Medium   |[Solution](Week-2/MaximumProductSubarray.java)   |
-|5      |   |   |   |
+|5  |[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)  |Medium   |[Solution](Week-2/CombinationSumIII.java)   |
 |6	    |   |   |   |
 |7	    |   |   |   |
 
