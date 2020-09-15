@@ -25,7 +25,7 @@
 ## Week 3: September 15th - September 21st
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
-|1      |   |   |   |
+|1  |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)   |Easy   |[Solution](Week-3/LengthOfLastWord.java)   |
 |2      |   |   |   |
 |3	    |   |   |   |
 |4	    |   |   |   |
