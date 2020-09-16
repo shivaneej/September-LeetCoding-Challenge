@@ -26,7 +26,7 @@
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
 |1  |[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)   |Easy   |[Solution](Week-3/LengthOfLastWord.java)   |
-|2      |   |   |   |
+|2  |[Maximum XOR Of Two Numbers In An Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)   |Medium   |[Solution](Week-3/MaximumXOROfTwoNumbersInAnArray.java)   |
 |3	    |   |   |   |
 |4	    |   |   |   |
 |5      |   |   |   |
