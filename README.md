@@ -29,7 +29,7 @@
 |2  |[Maximum XOR Of Two Numbers In An Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)   |Medium   |[Solution](Week-3/MaximumXOROfTwoNumbersInAnArray.java)   |
 |3  |[Robot Bounded in Circle](https://leetcode.com/problems/robot-bounded-in-circle/)   |Medium   |[Solution](Week-3/RobotBoundedInCircle.java)   |
 |4	|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)   |Easy   |[Solution](Week-3/BestTimeToBuyAndSellStock.java)   |
-|5      |   |   |   |
+|5  |[Sequential Digits](https://leetcode.com/problems/sequential-digits/)   |Medium   |[Solution](Week-3/SequentialDigits.java)   |
 |6	    |   |   |   |
 |7	    |   |   |   |
 
