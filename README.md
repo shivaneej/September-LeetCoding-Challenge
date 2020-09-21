@@ -30,8 +30,8 @@
 |3  |[Robot Bounded in Circle](https://leetcode.com/problems/robot-bounded-in-circle/)   |Medium   |[Solution](Week-3/RobotBoundedInCircle.java)   |
 |4	|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)   |Easy   |[Solution](Week-3/BestTimeToBuyAndSellStock.java)   |
 |5  |[Sequential Digits](https://leetcode.com/problems/sequential-digits/)   |Medium   |[Solution](Week-3/SequentialDigits.java)   |
-|6	    |   |   |   |
-|7	    |   |   |   |
+|6	|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)   |Hard   |[Solution](Week-3/UniquePathsIII.java)   |
+|7  |[Car Pooling](https://leetcode.com/problems/car-pooling/)   |Medium   |[Solution](Week-3/CarPooling.java)   |
 
 ## Week 4: September 22nd - September 28th
 |Day|Problem Link|Difficulty|Solution|      
