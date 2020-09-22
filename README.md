@@ -36,7 +36,7 @@
 ## Week 4: September 22nd - September 28th
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
-|1      |   |   |   |
+|1  |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)   |Medium   |[Solution](Week-4/MajorityElementII.java)   |
 |2      |   |   |   |
 |3	    |   |   |   |
 |4	    |   |   |   |
