@@ -37,7 +37,7 @@
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
 |1  |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)   |Medium   |[Solution](Week-4/MajorityElementII.java)   |
-|2      |   |   |   |
+|2  |[Gas Station](https://leetcode.com/problems/gas-station/)   |Medium   |[Solution](Week-4/GasStation.java)   |
 |3	    |   |   |   |
 |4	    |   |   |   |
 |5      |   |   |   |
