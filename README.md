@@ -38,7 +38,7 @@
 |:--|:-----------|:---------|:-------|
 |1  |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)   |Medium   |[Solution](Week-4/MajorityElementII.java)   |
 |2  |[Gas Station](https://leetcode.com/problems/gas-station/)   |Medium   |[Solution](Week-4/GasStation.java)   |
-|3	    |   |   |   |
+|3  |[Find the Difference](https://leetcode.com/problems/find-the-difference/)   |Easy   |[Solution](Week-4/FindTheDifference.java)   |
 |4	    |   |   |   |
 |5      |   |   |   |
 |6	    |   |   |   |
