@@ -39,9 +39,9 @@
 |1  |[Majority Element II](https://leetcode.com/problems/majority-element-ii/)   |Medium   |[Solution](Week-4/MajorityElementII.java)   |
 |2  |[Gas Station](https://leetcode.com/problems/gas-station/)   |Medium   |[Solution](Week-4/GasStation.java)   |
 |3  |[Find the Difference](https://leetcode.com/problems/find-the-difference/)   |Easy   |[Solution](Week-4/FindTheDifference.java)   |
-|4	    |   |   |   |
-|5      |   |   |   |
-|6	    |   |   |   |
+|4  |[Largest Number](https://leetcode.com/problems/largest-number/)   |Medium   |[Solution](Week-4/LargestNumber.java)   |
+|5  |[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)   |Medium   |[Solution](Week-4/TeemoAttacking.java)   |
+|6  |[Evaluate Division](https://leetcode.com/problems/evaluate-division/)   |Medium   |[Solution](Week-4/EvaluateDivision.java)   |
 |7	    |   |   |   |
 
 ## Week 5: September 29th - September 30th
