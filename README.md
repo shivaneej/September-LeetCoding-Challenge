@@ -42,7 +42,7 @@
 |4  |[Largest Number](https://leetcode.com/problems/largest-number/)   |Medium   |[Solution](Week-4/LargestNumber.java)   |
 |5  |[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)   |Medium   |[Solution](Week-4/TeemoAttacking.java)   |
 |6  |[Evaluate Division](https://leetcode.com/problems/evaluate-division/)   |Medium   |[Solution](Week-4/EvaluateDivision.java)   |
-|7	    |   |   |   |
+|7  |[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)   |Medium  |[Solution](Week-4/SubarrayProductLessThanK.java)   |
 
 ## Week 5: September 29th - September 30th
 |Day|Problem Link|Difficulty|Solution|      
