@@ -48,4 +48,4 @@
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
 |1  |[Word Break](https://leetcode.com/problems/word-break/)   |Medium   |[Solution](Week-5/WordBreak.java)   |
-|2      |   |   |   |
+|2  |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)   |Hard   |[Solution](Week-5/FirstMissingPositive.java)   |
