@@ -47,5 +47,5 @@
 ## Week 5: September 29th - September 30th
 |Day|Problem Link|Difficulty|Solution|      
 |:--|:-----------|:---------|:-------|
-|1      |   |   |   |
+|1  |[Word Break](https://leetcode.com/problems/word-break/)   |Medium   |[Solution](Week-5/WordBreak.java)   |
 |2      |   |   |   |
